@@ -10,3 +10,6 @@ RDS
 Load Balancers
 IAM
 And thousands of other resources
+
+
+The Amazon Web Services (AWS) provider is Terraform’s most widely-used provider and the industry-standard way to manage AWS infrastructure as code.
