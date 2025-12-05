@@ -1,0 +1,12 @@
+1. What is Terraform?
+
+Terraform is an IaC (Infrastructure as Code) tool used to create, update, and delete cloud resources using code.
+With Terraform you can create:
+EC2 instances
+VPC
+Security Groups
+S3 Bucket
+RDS
+Load Balancers
+IAM
+And thousands of other resources
