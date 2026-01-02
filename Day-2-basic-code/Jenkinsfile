@@ -8,4 +8,11 @@ pipeline {
             }
         }
     }
+      stages {
+        stage('Hi') {
+            steps {
+                echo 'Hello World'
+            }
+        }
+    }
 }
